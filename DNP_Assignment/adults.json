@@ -1,0 +1,50 @@
+[
+  {
+    "JobTitle": "Database Manager",
+    "id": 0,
+    "firstName": "Mattias",
+    "lastName": "Jensen",
+    "hairColor": "Brown",
+    "eyeColor": "Green",
+    "age": 23,
+    "weight": 70,
+    "height": 180,
+    "sex": "M"
+  },
+  {
+    "JobTitle": "Drinker",
+    "id": 1,
+    "firstName": "Chris",
+    "lastName": "Lars",
+    "hairColor": "Brown",
+    "eyeColor": "Green",
+    "age": 24,
+    "weight": 180,
+    "height": 180,
+    "sex": "M"
+  },
+  {
+    "JobTitle": "Captain",
+    "id": 2,
+    "firstName": "Maria",
+    "lastName": "Go",
+    "hairColor": "Blond",
+    "eyeColor": "Blue",
+    "age": 24,
+    "weight": 60,
+    "height": 160,
+    "sex": "F"
+  },
+  {
+    "JobTitle": "Teacher",
+    "id": 2,
+    "firstName": "Maria",
+    "lastName": "Go",
+    "hairColor": "Blond",
+    "eyeColor": "Blue",
+    "age": 24,
+    "weight": 60,
+    "height": 160,
+    "sex": "F"
+  }
+]

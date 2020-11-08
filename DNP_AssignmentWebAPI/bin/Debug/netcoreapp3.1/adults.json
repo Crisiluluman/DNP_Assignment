@@ -1,0 +1,50 @@
+[
+  {
+    "JobTitle": "Test",
+    "id": 0,
+    "firstName": "Test",
+    "lastName": "Test",
+    "hairColor": "Brown",
+    "eyeColor": "Green",
+    "age": 100,
+    "weight": 180,
+    "height": 180,
+    "sex": "F"
+  },
+  {
+    "JobTitle": "Drinker",
+    "id": 1,
+    "firstName": "Chris",
+    "lastName": "Larsen",
+    "hairColor": "Brown",
+    "eyeColor": "Green",
+    "age": 25,
+    "weight": 180,
+    "height": 180,
+    "sex": "Male"
+  },
+  {
+    "JobTitle": "Teacher",
+    "id": 2,
+    "firstName": "Maria",
+    "lastName": "Go",
+    "hairColor": "Blond",
+    "eyeColor": "Blue",
+    "age": 24,
+    "weight": 60,
+    "height": 160,
+    "sex": "F"
+  },
+  {
+    "JobTitle": "Test",
+    "id": 3,
+    "firstName": "Test",
+    "lastName": "Test",
+    "hairColor": "Brown",
+    "eyeColor": "Green",
+    "age": 1,
+    "weight": 1,
+    "height": 190,
+    "sex": "Test"
+  }
+]

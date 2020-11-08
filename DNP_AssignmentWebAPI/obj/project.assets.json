@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DNP_Assignment/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DNP_Assignment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DNP_Assignment.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "DNP_Assignment/1.0.0": {
+      "type": "project",
+      "path": "../DNP_Assignment/DNP_Assignment.csproj",
+      "msbuildProject": "../DNP_Assignment/DNP_Assignment.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DNP_Assignment >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kawaz\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kawaz\\Google Drev\\Uni Uddannelse\\3 Semester\\C#\\DNP_Assignment\\DNP_Assignment\\DNP_AssignmentWebAPI\\DNP_AssignmentWebAPI.csproj",
+      "projectName": "DNP_AssignmentWebAPI",
+      "projectPath": "C:\\Users\\kawaz\\Google Drev\\Uni Uddannelse\\3 Semester\\C#\\DNP_Assignment\\DNP_Assignment\\DNP_AssignmentWebAPI\\DNP_AssignmentWebAPI.csproj",
+      "packagesPath": "C:\\Users\\kawaz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kawaz\\Google Drev\\Uni Uddannelse\\3 Semester\\C#\\DNP_Assignment\\DNP_Assignment\\DNP_AssignmentWebAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kawaz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\kawaz\\Google Drev\\Uni Uddannelse\\3 Semester\\C#\\DNP_Assignment\\DNP_Assignment\\DNP_Assignment\\DNP_Assignment.csproj": {
+              "projectPath": "C:\\Users\\kawaz\\Google Drev\\Uni Uddannelse\\3 Semester\\C#\\DNP_Assignment\\DNP_Assignment\\DNP_Assignment\\DNP_Assignment.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
